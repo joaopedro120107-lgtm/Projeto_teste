@@ -4,3 +4,4 @@ git commit -m ''
 git status
 git clone
 git diff    
+git push -u origin main
